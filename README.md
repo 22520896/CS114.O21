@@ -34,6 +34,7 @@
 |---|---|---|---|---|
 |1|Cao Huyền My|22520896|[22520896](https://github.com/22520896)|22520896@gm.uit.edu.vn|
 |2|Chu Minh Nhật Hạ|22520368|[thutranhsodo](https://github.com/thutranhsodo)|22520368@gm.uit.edu.vn|
-|3|Trần Vũ Nhật|22521031|[vunhat168](https://github.com/vunhat168)|22521031@gm.uit.edu.vn|
+|3|Hồ Thúy Nga|22520926|[thuyngak4](https://github.com/thuyngak4)|22520926@gm.uit.edu.vn|
+|4|Hồ Thị Thanh Tuyền|22521627|[thanhtuyen0000000000000](https://github.com/thanhtuyen0000000000000)|22521627@gm.uit.edu.vn|
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
